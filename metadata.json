@@ -1,0 +1,5 @@
+{
+  "name": "Chronosync - AI Timezone Master",
+  "description": "A next-generation timezone comparison tool featuring a global synchronized timeline, visual overlap indicators for best meeting times, and a Gemini-powered AI assistant for scheduling and cultural etiquette advice.",
+  "requestFramePermissions": []
+}
